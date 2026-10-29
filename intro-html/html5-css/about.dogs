@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+     <title>HTML5 and Intro to CSS</title>
+     <link rel="stylesheet"href="css/styles.css">
+</head>
+<body>
+    <div id="container">
+    <header>
+        <h1>more dog breeds</h1>
+    </header>
+    <nav>
+        <a href="index.html"></a>
+        <a href="about.dogs">About</a>
+    </nav>
+    <main>
+        <h2>corgi</h2>
+        <p>Corgis are considered a small dog breed, often orange and white. Corgis have a unique feature about them that brings everyones attention, they have something famously known as the corgi butt. Corgi's natural fur is longer anf fluffier on their butt giving the impression of a fluffy butt on this small dog, it is adorable and is a corgi's unique mark. Aside from that, corgi's are the funniest little dogs you'll ever encounter and they will match your energy at any given time. They are as energetic as ever when you are up and moving, but are waiting for you at the door when your ready for bed. Corgi's also have a sentimental attachment to their toy ball, give them a toy ball and they will love you forever. These dogs are tiny but mighty and will protect you with everything in them. They are everything you would want in a companion all in a little fluff ball.</p>
+        <img src="images/alvan-nee-iSRb5JZ5CfY-unsplash-2.jpg" alt="Corgi">
+        <hr>
+        <h3> unqiue dogs</h3>
+        <h3>Dalmation</h3>
+        <p> Have you ever watched 101 dalmations? Well, believe it or not those cute little speckled black and white dogs are real. It may not seem it because it is so rare to actually see one but they are real. These are the cutest dogs with the funniest little personalities, they are the perfect mix of chill and funny. A little fun fact about these dogs, they easily get sunburnt due to their white fur and the nature of their skin. These dogs are extremely laid back and you hardly hear a peep out of them. If you are looking for a medium sized dog that will chill with you all the time this is your future fur baby.</p>
+        <img src="images/megan-dujardin-FcK5gVoUs6Q-unsplash.jpg" alt="Dalmation">
+        <ul>
+            <li>more dog breeds</li>
+            <li>corgi</li>
+            <li>unique dogs</li>
+            <li>Dalmation</li>
+
+
+        </ul>
+    </main>
+    <footer>&copy;HTML5 and Intro to CSS</footer>
+</div>
+</body>
+
+</html>
